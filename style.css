@@ -1,0 +1,27 @@
+body{
+    font-family: "Helvetica", Arial, Helvetica, sans-serif;
+    margin:80;
+}
+
+img{
+    padding: 0px 50px 50px 50px;
+}
+
+.title {
+    font-size: 36;
+    font-weight: bold;
+    /* padding: 200px */
+  }
+
+.heading{
+    font-size: 20;
+    font-weight: bold;
+}
+
+.item{
+    text-align: left;
+}
+
+.dates{
+    float:right
+}
